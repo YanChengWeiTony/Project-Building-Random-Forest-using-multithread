@@ -17,3 +17,5 @@ threads too often. Thus, I maintain a read buffer (Capacity 4096 test
 data) and divide these data to different threads equally. For example, if
 there are 256 threads, each thread gets 16 test data and calculate them.
 After reclaiming all data from all thread, I re-assign all threads again.
+
+![imag](https://github.com/YanChengWeiTony/Project-Building-Random-Forest-using-multithread/blob/master/thread_num_time.png)
