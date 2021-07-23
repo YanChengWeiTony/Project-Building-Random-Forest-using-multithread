@@ -29,4 +29,7 @@ After reclaiming all data from all thread, I re-assign all threads again.
 <img src="https://github.com/YanChengWeiTony/Project-Building-Random-Forest-using-multithread/blob/master/thread_num_time.png" width="600" height="400">
 
 ### Usage
-
+```
+git clone https://github.com/YanChengWeiTony/Project-Building-Random-Forest-using-multithread.git
+cd Project-Building-Random-Forest-using-multithread
+```
